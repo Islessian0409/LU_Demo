@@ -1,12 +1,12 @@
 {
 	"id": 2,
-	"name": "ABCD",
-	"email": "abcd@test.com",
+	"name": "DICT Demo",
+	"email": "dict@test.com",
 	"phone": "987654321",
-	"city": "Mangalore",
-	"state": "karnataka",
-	"country": "India",
-	"organization": "Company 2",
+	"city": "Calamba",
+	"state": "LGN",
+	"country": "PH",
+	"organization": "DICT WEbinar",
 	"jobProfile": "Software Developer",
-	"additionalInfo": "Buys Products Rarely"
+	"additionalInfo": "DICT Webinar"
 }
