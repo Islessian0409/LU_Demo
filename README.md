@@ -1,2 +1,2 @@
-# Simple React JS Project for DICT Webinar
+# Simple React JS Project for LU Webinar
 
