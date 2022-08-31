@@ -1,12 +1,12 @@
 {
 	"id": 2,
-	"name": "DICT Demo",
-	"email": "dict@test.com",
+	"name": "LU Demo",
+	"email": "lu@test.com",
 	"phone": "987654321",
-	"city": "Calamba",
+	"city": "Santa Cruz",
 	"state": "LGN",
 	"country": "PH",
-	"organization": "DICT WEbinar",
-	"jobProfile": "Software Developer",
-	"additionalInfo": "DICT Webinar"
+	"organization": "Laguna University",
+	"jobProfile": "SEnior Cloud Engineer",
+	"additionalInfo": "LU Webinar
 }
