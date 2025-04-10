@@ -1,12 +1,12 @@
 {
 	"id": 1,
 	"name": "Edward Humphrey C. Isles",
-	"email": "edwardhumphrey.isles@lspu.edu.ph",
+	"email": "edwardhumphrey.isles@ecloudvalley.com",
 	"phone": "123456789",
-	"city": "Manila",
-	"state": "MNL",
+	"city": "BGC",
+	"state": "NGC",
 	"country": "Philippines",
-	"organization": "Code Disruptors, Inc.",
-	"jobProfile": "Cloud Systems Administrator",
+	"organization": "EcloudValley",
+	"jobProfile": "AWS Technical Account Manager",
 	"additionalInfo": "If you fail, know why you failed, learn from it then try again."
 }
